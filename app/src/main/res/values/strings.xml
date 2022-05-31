@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">asp 2</string>
+    <string name="ruta1">Ruta Horizontal</string>
+    <string name="ruta2">Ruta Espiral</string>
+    <string name="ruta3">Ruta Vertical</string>
+    <string name="trabajando">trabajando</string>
+    <string name="descansar">descansar</string>
+    <string name="desocupado">desocupado</string>
+    <string name="trabajar">¡trabajar!</string>
+</resources>
